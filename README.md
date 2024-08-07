@@ -1,1 +1,1 @@
-# scala4spark
+在spark框架中使用Scala语言的一些公共类，去掉了原司的所有内容，单纯的Scala代码
